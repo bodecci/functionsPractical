@@ -3,3 +3,4 @@ function logger(){
 }//end of logger
 
 logger();
+logger();
